@@ -12,10 +12,7 @@ A simple chatbot that can help users check their symptoms and provide relevant i
 - [Usage](#usage)
 - [Training](#training)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#Contact)
-
+- 
 ## Introduction
 
 This repository contains code for a symptom checker chatbot. The chatbot can engage in conversations with users, gather information about their symptoms, and provide information about potential conditions or nearby medical centers. It uses a pre-trained RNN model for natural language understanding.
